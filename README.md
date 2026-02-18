@@ -29,10 +29,12 @@ This project eliminates manual attendance marking by using RFID cards. Each stud
 🕒 Real-Time Attendance Timestamp
 
 🔔 Audio Feedback System
-            ✅ One long beep → Attendance Successful
-            ❌ Two long beeps → Access Denied
 
-🖥 Serial Monitor UID Display
+✅ One long beep → Attendance Successful
+            
+  ❌ Two long beeps → Access Denied
+
+  🖥 Serial Monitor UID Display
 
 🔄 Expandable for Multiple Students
 
